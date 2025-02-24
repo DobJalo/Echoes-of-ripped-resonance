@@ -14,5 +14,6 @@
 
 ## Download the game  
 - [itch.io page](https://dobjalo.itch.io/echoes-of-ripped-resonance)
-- Password to access: TVP-ZF3-CVX-9hs
+  Password to access: TVP-ZF3-CVX-9hs
+  
 - [Gameplay video](https://youtu.be/85x_OQ-gGHA)
